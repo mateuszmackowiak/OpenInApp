@@ -1,0 +1,48 @@
+<extension xmlns="http://ns.adobe.com/air/extension/3.1">
+<id>pl.mateuszmackowiak.nativeANE.dialogs.OpenInApp</id>
+<versionNumber>1</versionNumber>
+<platforms>
+<!--<platform name="Android-ARM">
+<applicationDeployment>
+<nativeLibrary>libOpenInApp.jar</nativeLibrary>
+<initializer>pl.mateuszmackowiak.nativeANE.dialogs.OpenInAppExtension</initializer>
+<finalizer>pl.mateuszmackowiak.nativeANE.dialogs.OpenInAppExtension</finalizer>
+</applicationDeployment>
+</platform>
+-->
+<platform name="iPhone-ARM">
+<applicationDeployment>
+<nativeLibrary>libOpenInApp.a</nativeLibrary>
+<initializer>OpenInAppExtInitializer</initializer>
+<finalizer>OpenInAppExtFinalizer</finalizer>
+</applicationDeployment>
+</platform>
+<!--<platform name="iPhone-x86">
+<applicationDeployment>
+<nativeLibrary>libOpenInApp.a</nativeLibrary>
+<initializer>OpenInAppExtInitializer</initializer>
+<finalizer>OpenInAppExtFinalizer</finalizer>
+</applicationDeployment>
+</platform>
+-->
+<!--<platform name="Windows-x86">
+<applicationDeployment>
+<nativeLibrary>libOpenInApp.dll</nativeLibrary>
+<initializer>OpenInAppExtInitializer</initializer>
+<finalizer>OpenInAppExtFinalizer</finalizer>
+</applicationDeployment>
+</platform>
+-->
+<!--<platform name="MacOS-x86">
+<applicationDeployment>
+<nativeLibrary>libOpenInApp.framework</nativeLibrary>
+<initializer>OpenInAppExtInitializer</initializer>
+<finalizer>OpenInAppExtFinalizer</finalizer>
+</applicationDeployment>
+</platform>
+-->
+<platform name="default">
+<applicationDeployment/>
+</platform>
+</platforms>
+</extension>

@@ -1,0 +1,365 @@
+TOpenInApp
+v5
+r1
+cCheck dependencies
+cProcessPCH /var/folders/zj/89lcvttd1_17xfc2d8d8cqzr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/OpenInApp-Prefix-fnmpgkpehfrwozgpbsefxpboymyq/OpenInApp-Prefix.pch.pth OpenInApp/OpenInApp-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cProcessPCH /var/folders/zj/89lcvttd1_17xfc2d8d8cqzr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/OpenInApp-Prefix-asnziwjfjoebpkesuhroepenaozt/OpenInApp-Prefix.pch.pth OpenInApp/OpenInApp-Prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/OpenInApp.build/Release-iphoneos/OpenInApp.build/Objects-normal/armv7s/OpenInApp.o /Users/mmmackowiak/Documents/git/OpenInApp/IOS/OpenInApp/OpenInApp/OpenInApp.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/OpenInApp.build/Release-iphoneos/OpenInApp.build/Objects-normal/armv7s/TTOpenInAppActivity.o /Users/mmmackowiak/Documents/git/OpenInApp/IOS/OpenInApp/OpenInApp/TTOpenInAppActivity/TTOpenInAppActivity.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/OpenInApp.build/Release-iphoneos/OpenInApp.build/Objects-normal/armv7/OpenInApp.o /Users/mmmackowiak/Documents/git/OpenInApp/IOS/OpenInApp/OpenInApp/OpenInApp.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/OpenInApp.build/Release-iphoneos/OpenInApp.build/Objects-normal/armv7/TTOpenInAppActivity.o /Users/mmmackowiak/Documents/git/OpenInApp/IOS/OpenInApp/OpenInApp/TTOpenInAppActivity/TTOpenInAppActivity.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLibtool /Users/mmmackowiak/Documents/git/OpenInApp/IOS/OpenInApp/build/OpenInApp.build/Release-iphoneos/OpenInApp.build/Objects-normal/armv7s/libOpenInApp.a normal armv7s
+cLibtool /Users/mmmackowiak/Documents/git/OpenInApp/IOS/OpenInApp/build/OpenInApp.build/Release-iphoneos/OpenInApp.build/Objects-normal/armv7/libOpenInApp.a normal armv7
+cCreateUniversalBinary /Users/mmmackowiak/Documents/git/OpenInApp/IOS/OpenInApp/build/Release-iphoneos/libOpenInApp.a normal "armv7 armv7s"
+cPBXCp OpenInApp/TTOpenInAppActivity/TTOpenInAppActivity@2x~ipad.png build/Release-iphoneos/TTOpenInAppActivity@2x~ipad.png
+cPBXCp OpenInApp/TTOpenInAppActivity/TTOpenInAppActivity.png build/Release-iphoneos/TTOpenInAppActivity.png
+cPBXCp OpenInApp/TTOpenInAppActivity/TTOpenInAppActivity@2x.png build/Release-iphoneos/TTOpenInAppActivity@2x.png
+cPBXCp OpenInApp/TTOpenInAppActivity/TTOpenInAppActivity~ipad.png build/Release-iphoneos/TTOpenInAppActivity~ipad.png
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk
+c0000000050C8F6C40000000000000132
+t1355347652
+s306
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+c0000000050706D98000000000036C800
+t1349545368
+s3590144
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+c0000000050706D9800000000006ABBE0
+t1349545368
+s6994912
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+c0000000050706D9800000000002C74D0
+t1349545368
+s2913488
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+c0000000050706D98000000000049C700
+t1349545368
+s4835072
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c0000000050706D980000000000322740
+t1349545368
+s3286848
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+c0000000050706D980000000000114570
+t1349545368
+s1131888
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk/System/Library/Frameworks/CoreMedia.framework/CoreMedia
+c0000000050706D9800000000001692A0
+t1349545368
+s1479328
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+c0000000050706D980000000000041310
+t1349545368
+s267024
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c0000000050706D990000000000629C80
+t1349545369
+s6462592
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c0000000050706D9800000000000015F7
+t1349545368
+s5623
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk/System/Library/Frameworks/MobileCoreServices.framework/MobileCoreServices
+c0000000050706D99000000000012C210
+t1349545369
+s1229328
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+c0000000050706D990000000000024190
+t1349545369
+s147856
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c0000000050706D9A0000000000359720
+t1349545370
+s3512096
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk/System/Library/Frameworks/Security.framework/Security
+c0000000050706D9A00000000000A8A50
+t1349545370
+s690768
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk/System/Library/Frameworks/SystemConfiguration.framework/SystemConfiguration
+c0000000050706D9A00000000000CAF00
+t1349545370
+s831232
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c0000000050706D9D00000000011BA850
+t1349545373
+s18589776
+
+N/Users/mmmackowiak/Documents/git/OpenInApp/IOS/OpenInApp/OpenInApp/OpenInApp-Prefix.pch
+c0000000050F5D44D000000000000011C
+t1358287949
+s284
+i<Foundation/Foundation.h>
+
+N/Users/mmmackowiak/Documents/git/OpenInApp/IOS/OpenInApp/OpenInApp/OpenInApp.m
+c0000000050F5FB4C0000000000001B6A
+t1358297932
+s7018
+
+N/Users/mmmackowiak/Documents/git/OpenInApp/IOS/OpenInApp/OpenInApp/TTOpenInAppActivity/TTOpenInAppActivity.m
+c0000000050F5D1D300000000000016F9
+t1358287315
+s5881
+
+N/Users/mmmackowiak/Documents/git/OpenInApp/IOS/OpenInApp/OpenInApp/TTOpenInAppActivity/TTOpenInAppActivity.png
+c0000000050EE0A4E00000000000007E5
+t1357777486
+s2021
+
+N/Users/mmmackowiak/Documents/git/OpenInApp/IOS/OpenInApp/OpenInApp/TTOpenInAppActivity/TTOpenInAppActivity@2x.png
+c0000000050EE0A4E0000000000000C72
+t1357777486
+s3186
+
+N/Users/mmmackowiak/Documents/git/OpenInApp/IOS/OpenInApp/OpenInApp/TTOpenInAppActivity/TTOpenInAppActivity@2x~ipad.png
+c0000000050EE0A4E0000000000000F8D
+t1357777486
+s3981
+
+N/Users/mmmackowiak/Documents/git/OpenInApp/IOS/OpenInApp/OpenInApp/TTOpenInAppActivity/TTOpenInAppActivity~ipad.png
+c0000000050EE0A4E0000000000000820
+t1357777486
+s2080
+
+N/Users/mmmackowiak/Documents/git/OpenInApp/IOS/OpenInApp/build/OpenInApp.build/Release-iphoneos/OpenInApp.build/Objects-normal/armv7/OpenInApp.LinkFileList
+c0000000050F5FC9B000000000000012C
+t1358298267
+s300
+
+N/Users/mmmackowiak/Documents/git/OpenInApp/IOS/OpenInApp/build/OpenInApp.build/Release-iphoneos/OpenInApp.build/Objects-normal/armv7/OpenInApp.o
+t2
+s0
+
+N/Users/mmmackowiak/Documents/git/OpenInApp/IOS/OpenInApp/build/OpenInApp.build/Release-iphoneos/OpenInApp.build/Objects-normal/armv7/TTOpenInAppActivity.o
+t2
+s0
+
+N/Users/mmmackowiak/Documents/git/OpenInApp/IOS/OpenInApp/build/OpenInApp.build/Release-iphoneos/OpenInApp.build/Objects-normal/armv7/libOpenInApp.a
+t2
+s0
+
+N/Users/mmmackowiak/Documents/git/OpenInApp/IOS/OpenInApp/build/OpenInApp.build/Release-iphoneos/OpenInApp.build/Objects-normal/armv7s/OpenInApp.LinkFileList
+c0000000050F5FC9B000000000000012E
+t1358298267
+s302
+
+N/Users/mmmackowiak/Documents/git/OpenInApp/IOS/OpenInApp/build/OpenInApp.build/Release-iphoneos/OpenInApp.build/Objects-normal/armv7s/OpenInApp.o
+t2
+s0
+
+N/Users/mmmackowiak/Documents/git/OpenInApp/IOS/OpenInApp/build/OpenInApp.build/Release-iphoneos/OpenInApp.build/Objects-normal/armv7s/TTOpenInAppActivity.o
+t2
+s0
+
+N/Users/mmmackowiak/Documents/git/OpenInApp/IOS/OpenInApp/build/OpenInApp.build/Release-iphoneos/OpenInApp.build/Objects-normal/armv7s/libOpenInApp.a
+t2
+s0
+
+N/Users/mmmackowiak/Documents/git/OpenInApp/IOS/OpenInApp/build/Release-iphoneos/TTOpenInAppActivity.png
+t2
+s0
+
+N/Users/mmmackowiak/Documents/git/OpenInApp/IOS/OpenInApp/build/Release-iphoneos/TTOpenInAppActivity@2x.png
+t2
+s0
+
+N/Users/mmmackowiak/Documents/git/OpenInApp/IOS/OpenInApp/build/Release-iphoneos/TTOpenInAppActivity@2x~ipad.png
+t2
+s0
+
+N/Users/mmmackowiak/Documents/git/OpenInApp/IOS/OpenInApp/build/Release-iphoneos/TTOpenInAppActivity~ipad.png
+t2
+s0
+
+N/Users/mmmackowiak/Documents/git/OpenInApp/IOS/OpenInApp/build/Release-iphoneos/libOpenInApp.a
+t2
+s0
+
+N/var/folders/zj/89lcvttd1_17xfc2d8d8cqzr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/OpenInApp-Prefix-asnziwjfjoebpkesuhroepenaozt/OpenInApp-Prefix.pch.pth
+t2
+s0
+
+N/var/folders/zj/89lcvttd1_17xfc2d8d8cqzr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/OpenInApp-Prefix-fnmpgkpehfrwozgpbsefxpboymyq/OpenInApp-Prefix.pch.pth
+t2
+s0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies7991f11a34a6b641^18770b1b34a6b641^---0#1#0#--18"Check dependencies36"0658E1B0-6C93-477E-BF95-C29D7A058136-
+
+CCompileC build/OpenInApp.build/Release-iphoneos/OpenInApp.build/Objects-normal/armv7/OpenInApp.o /Users/mmmackowiak/Documents/git/OpenInApp/IOS/OpenInApp/OpenInApp/OpenInApp.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s379991067.458745
+e379991067.903042
+r1
+xCompileC
+xbuild/OpenInApp.build/Release-iphoneos/OpenInApp.build/Objects-normal/armv7/OpenInApp.o
+x/Users/mmmackowiak/Documents/git/OpenInApp/IOS/OpenInApp/OpenInApp/OpenInApp.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection86"Compile /Users/mmmackowiak/Documents/git/OpenInApp/IOS/OpenInApp/OpenInApp/OpenInApp.md7a6751b34a6b641^7b32e71b34a6b641^---0#0#0#-19%DVTDocumentLocation2@94"file://localhost/Users/mmmackowiak/Documents/git/OpenInApp/IOS/OpenInApp/OpenInApp/OpenInApp.m0000000000000000^3685"CompileC build/OpenInApp.build/Release-iphoneos/OpenInApp.build/Objects-normal/armv7/OpenInApp.o OpenInApp/OpenInApp.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/mmmackowiak/Documents/git/OpenInApp/IOS/OpenInApp    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=6.0 -iquote /Users/mmmackowiak/Documents/git/OpenInApp/IOS/OpenInApp/build/OpenInApp.build/Release-iphoneos/OpenInApp.build/OpenInApp-generated-files.hmap -I/Users/mmmackowiak/Documents/git/OpenInApp/IOS/OpenInApp/build/OpenInApp.build/Release-iphoneos/OpenInApp.build/OpenInApp-own-target-headers.hmap -I/Users/mmmackowiak/Documents/git/OpenInApp/IOS/OpenInApp/build/OpenInApp.build/Release-iphoneos/OpenInApp.build/OpenInApp-all-target-headers.hmap -iquote /Users/mmmackowiak/Documents/git/OpenInApp/IOS/OpenInApp/build/OpenInApp.build/Release-iphoneos/OpenInApp.build/OpenInApp-project-headers.hmap -iquote/Users/mmmackowiak/Documents/apacheFlex/4.9.0 -iquoteAIR3.6/include -I/Users/mmmackowiak/Documents/git/OpenInApp/IOS/OpenInApp/build/Release-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/mmmackowiak/Documents/git/OpenInApp/IOS/OpenInApp/build/OpenInApp.build/Release-iphoneos/OpenInApp.build/DerivedSources/armv7 -I/Users/mmmackowiak/Documents/git/OpenInApp/IOS/OpenInApp/build/OpenInApp.build/Release-iphoneos/OpenInApp.build/DerivedSources -F/Users/mmmackowiak/Documents/git/OpenInApp/IOS/OpenInApp/build/Release-iphoneos -include /var/folders/zj/89lcvttd1_17xfc2d8d8cqzr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/OpenInApp-Prefix-fnmpgkpehfrwozgpbsefxpboymyq/OpenInApp-Prefix.pch -MMD -MT dependencies -MF /Users/mmmackowiak/Documents/git/OpenInApp/IOS/OpenInApp/build/OpenInApp.build/Release-iphoneos/OpenInApp.build/Objects-normal/armv7/OpenInApp.d --serialize-diagnostics /Users/mmmackowiak/Documents/git/OpenInApp/IOS/OpenInApp/build/OpenInApp.build/Release-iphoneos/OpenInApp.build/Objects-normal/armv7/OpenInApp.dia -c /Users/mmmackowiak/Documents/git/OpenInApp/IOS/OpenInApp/OpenInApp/OpenInApp.m -o /Users/mmmackowiak/Documents/git/OpenInApp/IOS/OpenInApp/build/OpenInApp.build/Release-iphoneos/OpenInApp.build/Objects-normal/armv7/OpenInApp.o36"ECDCE248-F5AB-43A4-95EF-E05D3E28E54A-
+
+CCompileC build/OpenInApp.build/Release-iphoneos/OpenInApp.build/Objects-normal/armv7/TTOpenInAppActivity.o /Users/mmmackowiak/Documents/git/OpenInApp/IOS/OpenInApp/OpenInApp/TTOpenInAppActivity/TTOpenInAppActivity.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s379991067.465480
+e379991067.928316
+r1
+xCompileC
+xbuild/OpenInApp.build/Release-iphoneos/OpenInApp.build/Objects-normal/armv7/TTOpenInAppActivity.o
+x/Users/mmmackowiak/Documents/git/OpenInApp/IOS/OpenInApp/OpenInApp/TTOpenInAppActivity/TTOpenInAppActivity.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+o/Users/mmmackowiak/Documents/git/OpenInApp/IOS/OpenInApp/OpenInApp/TTOpenInAppActivity/TTOpenInAppActivity.m:111:92: warning: '__bridge' casts have no effect when not using ARC [-Warc-bridge-casts-disallowed-in-nonarc]
+o    CFStringRef UTI = UTTypeCreatePreferredIdentifierForTag(kUTTagClassFilenameExtension, (__bridge CFStringRef)url.pathExtension, NULL);
+o                                                                                           ^~~~~~~~
+o/Users/mmmackowiak/Documents/git/OpenInApp/IOS/OpenInApp/OpenInApp/TTOpenInAppActivity/TTOpenInAppActivity.m:112:13: warning: '__bridge' casts have no effect when not using ARC [-Warc-bridge-casts-disallowed-in-nonarc]
+o    return (__bridge NSString *)UTI;
+o            ^~~~~~~~
+o2 warnings generated.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection116"Compile /Users/mmmackowiak/Documents/git/OpenInApp/IOS/OpenInApp/OpenInApp/TTOpenInAppActivity/TTOpenInAppActivity.mb56e771b34a6b641^50a6ed1b34a6b641^-756"/Users/mmmackowiak/Documents/git/OpenInApp/IOS/OpenInApp/OpenInApp/TTOpenInAppActivity/TTOpenInAppActivity.m:111:92: warning: '__bridge' casts have no effect when not using ARC [-Warc-bridge-casts-disallowed-in-nonarc]    CFStringRef UTI = UTTypeCreatePreferredIdentifierForTag(kUTTagClassFilenameExtension, (__bridge CFStringRef)url.pathExtension, NULL);                                                                                           ^~~~~~~~/Users/mmmackowiak/Documents/git/OpenInApp/IOS/OpenInApp/OpenInApp/TTOpenInAppActivity/TTOpenInAppActivity.m:112:13: warning: '__bridge' casts have no effect when not using ARC [-Warc-bridge-casts-disallowed-in-nonarc]    return (__bridge NSString *)UTI;            ^~~~~~~~2 warnings generated.2(36%IDEClangDiagnosticActivityLogMessage2@50"'__bridge' casts have no effect when not using ARC-379991067#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@124"file://localhost/Users/mmmackowiak/Documents/git/OpenInApp/IOS/OpenInApp/OpenInApp/TTOpenInAppActivity/TTOpenInAppActivity.m0000000000000000^110#91#110#91#3840#0#15"ARC Parse Issue1(3@124"file://localhost/Users/mmmackowiak/Documents/git/OpenInApp/IOS/OpenInApp/OpenInApp/TTOpenInAppActivity/TTOpenInAppActivity.m0000000000000000^110#91#110#99#3840#8#-2@50"'__bridge' casts have no effect when not using ARC-379991067#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@124"file://localhost/Users/mmmackowiak/Documents/git/OpenInApp/IOS/OpenInApp/OpenInApp/TTOpenInAppActivity/TTOpenInAppActivity.m0000000000000000^111#12#111#12#3899#0#15"ARC Parse Issue1(3@124"file://localhost/Users/mmmackowiak/Documents/git/OpenInApp/IOS/OpenInApp/OpenInApp/TTOpenInAppActivity/TTOpenInAppActivity.m0000000000000000^111#12#111#20#3899#8#-0#0#0#-19%DVTDocumentLocation4@124"file://localhost/Users/mmmackowiak/Documents/git/OpenInApp/IOS/OpenInApp/OpenInApp/TTOpenInAppActivity/TTOpenInAppActivity.m0000000000000000^3785"CompileC build/OpenInApp.build/Release-iphoneos/OpenInApp.build/Objects-normal/armv7/TTOpenInAppActivity.o OpenInApp/TTOpenInAppActivity/TTOpenInAppActivity.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/mmmackowiak/Documents/git/OpenInApp/IOS/OpenInApp    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=6.0 -iquote /Users/mmmackowiak/Documents/git/OpenInApp/IOS/OpenInApp/build/OpenInApp.build/Release-iphoneos/OpenInApp.build/OpenInApp-generated-files.hmap -I/Users/mmmackowiak/Documents/git/OpenInApp/IOS/OpenInApp/build/OpenInApp.build/Release-iphoneos/OpenInApp.build/OpenInApp-own-target-headers.hmap -I/Users/mmmackowiak/Documents/git/OpenInApp/IOS/OpenInApp/build/OpenInApp.build/Release-iphoneos/OpenInApp.build/OpenInApp-all-target-headers.hmap -iquote /Users/mmmackowiak/Documents/git/OpenInApp/IOS/OpenInApp/build/OpenInApp.build/Release-iphoneos/OpenInApp.build/OpenInApp-project-headers.hmap -iquote/Users/mmmackowiak/Documents/apacheFlex/4.9.0 -iquoteAIR3.6/include -I/Users/mmmackowiak/Documents/git/OpenInApp/IOS/OpenInApp/build/Release-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/mmmackowiak/Documents/git/OpenInApp/IOS/OpenInApp/build/OpenInApp.build/Release-iphoneos/OpenInApp.build/DerivedSources/armv7 -I/Users/mmmackowiak/Documents/git/OpenInApp/IOS/OpenInApp/build/OpenInApp.build/Release-iphoneos/OpenInApp.build/DerivedSources -F/Users/mmmackowiak/Documents/git/OpenInApp/IOS/OpenInApp/build/Release-iphoneos -include /var/folders/zj/89lcvttd1_17xfc2d8d8cqzr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/OpenInApp-Prefix-fnmpgkpehfrwozgpbsefxpboymyq/OpenInApp-Prefix.pch -MMD -MT dependencies -MF /Users/mmmackowiak/Documents/git/OpenInApp/IOS/OpenInApp/build/OpenInApp.build/Release-iphoneos/OpenInApp.build/Objects-normal/armv7/TTOpenInAppActivity.d --serialize-diagnostics /Users/mmmackowiak/Documents/git/OpenInApp/IOS/OpenInApp/build/OpenInApp.build/Release-iphoneos/OpenInApp.build/Objects-normal/armv7/TTOpenInAppActivity.dia -c /Users/mmmackowiak/Documents/git/OpenInApp/IOS/OpenInApp/OpenInApp/TTOpenInAppActivity/TTOpenInAppActivity.m -o /Users/mmmackowiak/Documents/git/OpenInApp/IOS/OpenInApp/build/OpenInApp.build/Release-iphoneos/OpenInApp.build/Objects-normal/armv7/TTOpenInAppActivity.o36"D76B2B35-A356-44DF-885E-9709D6C88C67-
+
+CCompileC build/OpenInApp.build/Release-iphoneos/OpenInApp.build/Objects-normal/armv7s/OpenInApp.o /Users/mmmackowiak/Documents/git/OpenInApp/IOS/OpenInApp/OpenInApp/OpenInApp.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s379991067.393384
+e379991067.856856
+r1
+xCompileC
+xbuild/OpenInApp.build/Release-iphoneos/OpenInApp.build/Objects-normal/armv7s/OpenInApp.o
+x/Users/mmmackowiak/Documents/git/OpenInApp/IOS/OpenInApp/OpenInApp/OpenInApp.m
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection86"Compile /Users/mmmackowiak/Documents/git/OpenInApp/IOS/OpenInApp/OpenInApp/OpenInApp.mcadc641b34a6b641^8655dc1b34a6b641^---0#0#0#-19%DVTDocumentLocation2@94"file://localhost/Users/mmmackowiak/Documents/git/OpenInApp/IOS/OpenInApp/OpenInApp/OpenInApp.m0000000000000000^3692"CompileC build/OpenInApp.build/Release-iphoneos/OpenInApp.build/Objects-normal/armv7s/OpenInApp.o OpenInApp/OpenInApp.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/mmmackowiak/Documents/git/OpenInApp/IOS/OpenInApp    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7s -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=6.0 -iquote /Users/mmmackowiak/Documents/git/OpenInApp/IOS/OpenInApp/build/OpenInApp.build/Release-iphoneos/OpenInApp.build/OpenInApp-generated-files.hmap -I/Users/mmmackowiak/Documents/git/OpenInApp/IOS/OpenInApp/build/OpenInApp.build/Release-iphoneos/OpenInApp.build/OpenInApp-own-target-headers.hmap -I/Users/mmmackowiak/Documents/git/OpenInApp/IOS/OpenInApp/build/OpenInApp.build/Release-iphoneos/OpenInApp.build/OpenInApp-all-target-headers.hmap -iquote /Users/mmmackowiak/Documents/git/OpenInApp/IOS/OpenInApp/build/OpenInApp.build/Release-iphoneos/OpenInApp.build/OpenInApp-project-headers.hmap -iquote/Users/mmmackowiak/Documents/apacheFlex/4.9.0 -iquoteAIR3.6/include -I/Users/mmmackowiak/Documents/git/OpenInApp/IOS/OpenInApp/build/Release-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/mmmackowiak/Documents/git/OpenInApp/IOS/OpenInApp/build/OpenInApp.build/Release-iphoneos/OpenInApp.build/DerivedSources/armv7s -I/Users/mmmackowiak/Documents/git/OpenInApp/IOS/OpenInApp/build/OpenInApp.build/Release-iphoneos/OpenInApp.build/DerivedSources -F/Users/mmmackowiak/Documents/git/OpenInApp/IOS/OpenInApp/build/Release-iphoneos -include /var/folders/zj/89lcvttd1_17xfc2d8d8cqzr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/OpenInApp-Prefix-asnziwjfjoebpkesuhroepenaozt/OpenInApp-Prefix.pch -MMD -MT dependencies -MF /Users/mmmackowiak/Documents/git/OpenInApp/IOS/OpenInApp/build/OpenInApp.build/Release-iphoneos/OpenInApp.build/Objects-normal/armv7s/OpenInApp.d --serialize-diagnostics /Users/mmmackowiak/Documents/git/OpenInApp/IOS/OpenInApp/build/OpenInApp.build/Release-iphoneos/OpenInApp.build/Objects-normal/armv7s/OpenInApp.dia -c /Users/mmmackowiak/Documents/git/OpenInApp/IOS/OpenInApp/OpenInApp/OpenInApp.m -o /Users/mmmackowiak/Documents/git/OpenInApp/IOS/OpenInApp/build/OpenInApp.build/Release-iphoneos/OpenInApp.build/Objects-normal/armv7s/OpenInApp.o36"CBFF96FE-D7D1-46C4-A296-86BD5C0400C0-
+
+CCompileC build/OpenInApp.build/Release-iphoneos/OpenInApp.build/Objects-normal/armv7s/TTOpenInAppActivity.o /Users/mmmackowiak/Documents/git/OpenInApp/IOS/OpenInApp/OpenInApp/TTOpenInAppActivity/TTOpenInAppActivity.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s379991067.393983
+e379991067.885125
+r1
+xCompileC
+xbuild/OpenInApp.build/Release-iphoneos/OpenInApp.build/Objects-normal/armv7s/TTOpenInAppActivity.o
+x/Users/mmmackowiak/Documents/git/OpenInApp/IOS/OpenInApp/OpenInApp/TTOpenInAppActivity/TTOpenInAppActivity.m
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+o/Users/mmmackowiak/Documents/git/OpenInApp/IOS/OpenInApp/OpenInApp/TTOpenInAppActivity/TTOpenInAppActivity.m:111:92: warning: '__bridge' casts have no effect when not using ARC [-Warc-bridge-casts-disallowed-in-nonarc]
+o    CFStringRef UTI = UTTypeCreatePreferredIdentifierForTag(kUTTagClassFilenameExtension, (__bridge CFStringRef)url.pathExtension, NULL);
+o                                                                                           ^~~~~~~~
+o/Users/mmmackowiak/Documents/git/OpenInApp/IOS/OpenInApp/OpenInApp/TTOpenInAppActivity/TTOpenInAppActivity.m:112:13: warning: '__bridge' casts have no effect when not using ARC [-Warc-bridge-casts-disallowed-in-nonarc]
+o    return (__bridge NSString *)UTI;
+o            ^~~~~~~~
+o2 warnings generated.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection116"Compile /Users/mmmackowiak/Documents/git/OpenInApp/IOS/OpenInApp/OpenInApp/TTOpenInAppActivity/TTOpenInAppActivity.m72fc641b34a6b641^51dbe21b34a6b641^-756"/Users/mmmackowiak/Documents/git/OpenInApp/IOS/OpenInApp/OpenInApp/TTOpenInAppActivity/TTOpenInAppActivity.m:111:92: warning: '__bridge' casts have no effect when not using ARC [-Warc-bridge-casts-disallowed-in-nonarc]    CFStringRef UTI = UTTypeCreatePreferredIdentifierForTag(kUTTagClassFilenameExtension, (__bridge CFStringRef)url.pathExtension, NULL);                                                                                           ^~~~~~~~/Users/mmmackowiak/Documents/git/OpenInApp/IOS/OpenInApp/OpenInApp/TTOpenInAppActivity/TTOpenInAppActivity.m:112:13: warning: '__bridge' casts have no effect when not using ARC [-Warc-bridge-casts-disallowed-in-nonarc]    return (__bridge NSString *)UTI;            ^~~~~~~~2 warnings generated.2(36%IDEClangDiagnosticActivityLogMessage2@50"'__bridge' casts have no effect when not using ARC-379991067#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@124"file://localhost/Users/mmmackowiak/Documents/git/OpenInApp/IOS/OpenInApp/OpenInApp/TTOpenInAppActivity/TTOpenInAppActivity.m0000000000000000^110#91#110#91#3840#0#15"ARC Parse Issue1(3@124"file://localhost/Users/mmmackowiak/Documents/git/OpenInApp/IOS/OpenInApp/OpenInApp/TTOpenInAppActivity/TTOpenInAppActivity.m0000000000000000^110#91#110#99#3840#8#-2@50"'__bridge' casts have no effect when not using ARC-379991067#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@124"file://localhost/Users/mmmackowiak/Documents/git/OpenInApp/IOS/OpenInApp/OpenInApp/TTOpenInAppActivity/TTOpenInAppActivity.m0000000000000000^111#12#111#12#3899#0#15"ARC Parse Issue1(3@124"file://localhost/Users/mmmackowiak/Documents/git/OpenInApp/IOS/OpenInApp/OpenInApp/TTOpenInAppActivity/TTOpenInAppActivity.m0000000000000000^111#12#111#20#3899#8#-0#0#0#-19%DVTDocumentLocation4@124"file://localhost/Users/mmmackowiak/Documents/git/OpenInApp/IOS/OpenInApp/OpenInApp/TTOpenInAppActivity/TTOpenInAppActivity.m0000000000000000^3792"CompileC build/OpenInApp.build/Release-iphoneos/OpenInApp.build/Objects-normal/armv7s/TTOpenInAppActivity.o OpenInApp/TTOpenInAppActivity/TTOpenInAppActivity.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/mmmackowiak/Documents/git/OpenInApp/IOS/OpenInApp    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7s -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=6.0 -iquote /Users/mmmackowiak/Documents/git/OpenInApp/IOS/OpenInApp/build/OpenInApp.build/Release-iphoneos/OpenInApp.build/OpenInApp-generated-files.hmap -I/Users/mmmackowiak/Documents/git/OpenInApp/IOS/OpenInApp/build/OpenInApp.build/Release-iphoneos/OpenInApp.build/OpenInApp-own-target-headers.hmap -I/Users/mmmackowiak/Documents/git/OpenInApp/IOS/OpenInApp/build/OpenInApp.build/Release-iphoneos/OpenInApp.build/OpenInApp-all-target-headers.hmap -iquote /Users/mmmackowiak/Documents/git/OpenInApp/IOS/OpenInApp/build/OpenInApp.build/Release-iphoneos/OpenInApp.build/OpenInApp-project-headers.hmap -iquote/Users/mmmackowiak/Documents/apacheFlex/4.9.0 -iquoteAIR3.6/include -I/Users/mmmackowiak/Documents/git/OpenInApp/IOS/OpenInApp/build/Release-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/mmmackowiak/Documents/git/OpenInApp/IOS/OpenInApp/build/OpenInApp.build/Release-iphoneos/OpenInApp.build/DerivedSources/armv7s -I/Users/mmmackowiak/Documents/git/OpenInApp/IOS/OpenInApp/build/OpenInApp.build/Release-iphoneos/OpenInApp.build/DerivedSources -F/Users/mmmackowiak/Documents/git/OpenInApp/IOS/OpenInApp/build/Release-iphoneos -include /var/folders/zj/89lcvttd1_17xfc2d8d8cqzr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/OpenInApp-Prefix-asnziwjfjoebpkesuhroepenaozt/OpenInApp-Prefix.pch -MMD -MT dependencies -MF /Users/mmmackowiak/Documents/git/OpenInApp/IOS/OpenInApp/build/OpenInApp.build/Release-iphoneos/OpenInApp.build/Objects-normal/armv7s/TTOpenInAppActivity.d --serialize-diagnostics /Users/mmmackowiak/Documents/git/OpenInApp/IOS/OpenInApp/build/OpenInApp.build/Release-iphoneos/OpenInApp.build/Objects-normal/armv7s/TTOpenInAppActivity.dia -c /Users/mmmackowiak/Documents/git/OpenInApp/IOS/OpenInApp/OpenInApp/TTOpenInAppActivity/TTOpenInAppActivity.m -o /Users/mmmackowiak/Documents/git/OpenInApp/IOS/OpenInApp/build/OpenInApp.build/Release-iphoneos/OpenInApp.build/Objects-normal/armv7s/TTOpenInAppActivity.o36"AAD61F43-2F7A-4940-A42B-1234E3119266-
+
+CCreateUniversalBinary /Users/mmmackowiak/Documents/git/OpenInApp/IOS/OpenInApp/build/Release-iphoneos/libOpenInApp.a normal "armv7 armv7s"
+s379991067.952775
+e379991067.967355
+r1
+xCreateUniversalBinary
+x/Users/mmmackowiak/Documents/git/OpenInApp/IOS/OpenInApp/build/Release-iphoneos/libOpenInApp.a
+xnormal
+xarmv7 armv7s
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection118"Create universal binary /Users/mmmackowiak/Documents/git/OpenInApp/IOS/OpenInApp/build/Release-iphoneos/libOpenInApp.a0403f41b34a6b641^94a4f71b34a6b641^---0#0#0#-19%DVTDocumentLocation2@110"file://localhost/Users/mmmackowiak/Documents/git/OpenInApp/IOS/OpenInApp/build/Release-iphoneos/libOpenInApp.a000000000080d041^749"CreateUniversalBinary build/Release-iphoneos/libOpenInApp.a normal "armv7 armv7s"    cd /Users/mmmackowiak/Documents/git/OpenInApp/IOS/OpenInApp    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    libtool -static /Users/mmmackowiak/Documents/git/OpenInApp/IOS/OpenInApp/build/OpenInApp.build/Release-iphoneos/OpenInApp.build/Objects-normal/armv7/libOpenInApp.a /Users/mmmackowiak/Documents/git/OpenInApp/IOS/OpenInApp/build/OpenInApp.build/Release-iphoneos/OpenInApp.build/Objects-normal/armv7s/libOpenInApp.a -o /Users/mmmackowiak/Documents/git/OpenInApp/IOS/OpenInApp/build/Release-iphoneos/libOpenInApp.a36"6A6E46CD-AC83-4808-A51D-BE51F610C1D4-
+
+CLibtool /Users/mmmackowiak/Documents/git/OpenInApp/IOS/OpenInApp/build/OpenInApp.build/Release-iphoneos/OpenInApp.build/Objects-normal/armv7/libOpenInApp.a normal armv7
+s379991067.934937
+e379991067.946431
+r1
+xLibtool
+x/Users/mmmackowiak/Documents/git/OpenInApp/IOS/OpenInApp/build/OpenInApp.build/Release-iphoneos/OpenInApp.build/Objects-normal/armv7/libOpenInApp.a
+xnormal
+xarmv7
+o/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC 
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection111"Libtool build/OpenInApp.build/Release-iphoneos/OpenInApp.build/Objects-normal/armv7/libOpenInApp.a normal armv7d881ef1b34a6b641^6b4af21b34a6b641^-159"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC -0#0#0#--1396"Libtool build/OpenInApp.build/Release-iphoneos/OpenInApp.build/Objects-normal/armv7/libOpenInApp.a normal armv7    cd /Users/mmmackowiak/Documents/git/OpenInApp/IOS/OpenInApp    setenv IPHONEOS_DEPLOYMENT_TARGET 6.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only armv7 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk -L/Users/mmmackowiak/Documents/git/OpenInApp/IOS/OpenInApp/build/Release-iphoneos -filelist /Users/mmmackowiak/Documents/git/OpenInApp/IOS/OpenInApp/build/OpenInApp.build/Release-iphoneos/OpenInApp.build/Objects-normal/armv7/OpenInApp.LinkFileList -ObjC -framework Foundation -framework CoreFoundation -framework UIKit -framework MobileCoreServices -framework CoreGraphics -framework SystemConfiguration -framework AudioToolbox -framework CFNetwork -framework QuartzCore -framework OpenGLES -framework CoreLocation -framework CoreMedia -framework CoreVideo -framework AVFoundation -framework Security -o /Users/mmmackowiak/Documents/git/OpenInApp/IOS/OpenInApp/build/OpenInApp.build/Release-iphoneos/OpenInApp.build/Objects-normal/armv7/libOpenInApp.a36"5B0A3F8D-33DC-493D-8A04-3F5AAB84FF01-
+
+CLibtool /Users/mmmackowiak/Documents/git/OpenInApp/IOS/OpenInApp/build/OpenInApp.build/Release-iphoneos/OpenInApp.build/Objects-normal/armv7s/libOpenInApp.a normal armv7s
+s379991067.891942
+e379991067.902759
+r1
+xLibtool
+x/Users/mmmackowiak/Documents/git/OpenInApp/IOS/OpenInApp/build/OpenInApp.build/Release-iphoneos/OpenInApp.build/Objects-normal/armv7s/libOpenInApp.a
+xnormal
+xarmv7s
+o/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC 
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection113"Libtool build/OpenInApp.build/Release-iphoneos/OpenInApp.build/Objects-normal/armv7s/libOpenInApp.a normal armv7sc381e41b34a6b641^af22e71b34a6b641^-159"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC -0#0#0#--1401"Libtool build/OpenInApp.build/Release-iphoneos/OpenInApp.build/Objects-normal/armv7s/libOpenInApp.a normal armv7s    cd /Users/mmmackowiak/Documents/git/OpenInApp/IOS/OpenInApp    setenv IPHONEOS_DEPLOYMENT_TARGET 6.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only armv7s -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk -L/Users/mmmackowiak/Documents/git/OpenInApp/IOS/OpenInApp/build/Release-iphoneos -filelist /Users/mmmackowiak/Documents/git/OpenInApp/IOS/OpenInApp/build/OpenInApp.build/Release-iphoneos/OpenInApp.build/Objects-normal/armv7s/OpenInApp.LinkFileList -ObjC -framework Foundation -framework CoreFoundation -framework UIKit -framework MobileCoreServices -framework CoreGraphics -framework SystemConfiguration -framework AudioToolbox -framework CFNetwork -framework QuartzCore -framework OpenGLES -framework CoreLocation -framework CoreMedia -framework CoreVideo -framework AVFoundation -framework Security -o /Users/mmmackowiak/Documents/git/OpenInApp/IOS/OpenInApp/build/OpenInApp.build/Release-iphoneos/OpenInApp.build/Objects-normal/armv7s/libOpenInApp.a36"362E8A36-0DEF-4CC5-8F76-30883698F6E7-
+
+CPBXCp OpenInApp/TTOpenInAppActivity/TTOpenInAppActivity.png build/Release-iphoneos/TTOpenInAppActivity.png
+s379991067.975634
+e379991067.979895
+r1
+xPBXCp
+xOpenInApp/TTOpenInAppActivity/TTOpenInAppActivity.png
+xbuild/Release-iphoneos/TTOpenInAppActivity.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection51"Copy build/Release-iphoneos/TTOpenInAppActivity.pngbaf6f91b34a6b641^dcdafa1b34a6b641^---0#0#0#-19%DVTDocumentLocation2@119"file://localhost/Users/mmmackowiak/Documents/git/OpenInApp/IOS/OpenInApp/build/Release-iphoneos/TTOpenInAppActivity.png000000000080d041^788"PBXCp OpenInApp/TTOpenInAppActivity/TTOpenInAppActivity.png build/Release-iphoneos/TTOpenInAppActivity.png    cd /Users/mmmackowiak/Documents/git/OpenInApp/IOS/OpenInApp    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks /Users/mmmackowiak/Documents/git/OpenInApp/IOS/OpenInApp/OpenInApp/TTOpenInAppActivity/TTOpenInAppActivity.png /Users/mmmackowiak/Documents/git/OpenInApp/IOS/OpenInApp/build/Release-iphoneos36"070BB416-A7B1-475B-B8AF-1D12FB491DEC-
+
+CPBXCp OpenInApp/TTOpenInAppActivity/TTOpenInAppActivity@2x.png build/Release-iphoneos/TTOpenInAppActivity@2x.png
+s379991067.975644
+e379991067.981303
+r1
+xPBXCp
+xOpenInApp/TTOpenInAppActivity/TTOpenInAppActivity@2x.png
+xbuild/Release-iphoneos/TTOpenInAppActivity@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection54"Copy build/Release-iphoneos/TTOpenInAppActivity@2x.png5ef4f91b34a6b641^263afb1b34a6b641^---0#0#0#-19%DVTDocumentLocation2@122"file://localhost/Users/mmmackowiak/Documents/git/OpenInApp/IOS/OpenInApp/build/Release-iphoneos/TTOpenInAppActivity@2x.png000000000080d041^803"PBXCp "OpenInApp/TTOpenInAppActivity/TTOpenInAppActivity@2x.png" "build/Release-iphoneos/TTOpenInAppActivity@2x.png"    cd /Users/mmmackowiak/Documents/git/OpenInApp/IOS/OpenInApp    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks "/Users/mmmackowiak/Documents/git/OpenInApp/IOS/OpenInApp/OpenInApp/TTOpenInAppActivity/TTOpenInAppActivity@2x.png" /Users/mmmackowiak/Documents/git/OpenInApp/IOS/OpenInApp/build/Release-iphoneos36"8606D9CA-99A2-4213-9D41-323326D0A0D5-
+
+CPBXCp OpenInApp/TTOpenInAppActivity/TTOpenInAppActivity@2x~ipad.png build/Release-iphoneos/TTOpenInAppActivity@2x~ipad.png
+s379991067.975626
+e379991067.982936
+r1
+xPBXCp
+xOpenInApp/TTOpenInAppActivity/TTOpenInAppActivity@2x~ipad.png
+xbuild/Release-iphoneos/TTOpenInAppActivity@2x~ipad.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection59"Copy build/Release-iphoneos/TTOpenInAppActivity@2x~ipad.png80f4f91b34a6b641^e4a1fb1b34a6b641^---0#0#0#-19%DVTDocumentLocation2@127"file://localhost/Users/mmmackowiak/Documents/git/OpenInApp/IOS/OpenInApp/build/Release-iphoneos/TTOpenInAppActivity@2x~ipad.png000000000080d041^818"PBXCp "OpenInApp/TTOpenInAppActivity/TTOpenInAppActivity@2x~ipad.png" "build/Release-iphoneos/TTOpenInAppActivity@2x~ipad.png"    cd /Users/mmmackowiak/Documents/git/OpenInApp/IOS/OpenInApp    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks "/Users/mmmackowiak/Documents/git/OpenInApp/IOS/OpenInApp/OpenInApp/TTOpenInAppActivity/TTOpenInAppActivity@2x~ipad.png" /Users/mmmackowiak/Documents/git/OpenInApp/IOS/OpenInApp/build/Release-iphoneos36"8B8B77A0-A64E-4BC7-8FDF-1745FCAD1D15-
+
+CPBXCp OpenInApp/TTOpenInAppActivity/TTOpenInAppActivity~ipad.png build/Release-iphoneos/TTOpenInAppActivity~ipad.png
+s379991067.975656
+e379991067.978739
+r1
+xPBXCp
+xOpenInApp/TTOpenInAppActivity/TTOpenInAppActivity~ipad.png
+xbuild/Release-iphoneos/TTOpenInAppActivity~ipad.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection56"Copy build/Release-iphoneos/TTOpenInAppActivity~ipad.png17f5f91b34a6b641^a48efa1b34a6b641^---0#0#0#-19%DVTDocumentLocation2@124"file://localhost/Users/mmmackowiak/Documents/git/OpenInApp/IOS/OpenInApp/build/Release-iphoneos/TTOpenInAppActivity~ipad.png000000000080d041^809"PBXCp "OpenInApp/TTOpenInAppActivity/TTOpenInAppActivity~ipad.png" "build/Release-iphoneos/TTOpenInAppActivity~ipad.png"    cd /Users/mmmackowiak/Documents/git/OpenInApp/IOS/OpenInApp    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks "/Users/mmmackowiak/Documents/git/OpenInApp/IOS/OpenInApp/OpenInApp/TTOpenInAppActivity/TTOpenInAppActivity~ipad.png" /Users/mmmackowiak/Documents/git/OpenInApp/IOS/OpenInApp/build/Release-iphoneos36"B2EF632C-9798-4BD9-8266-449CBA7C8D51-
+
+CProcessPCH /var/folders/zj/89lcvttd1_17xfc2d8d8cqzr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/OpenInApp-Prefix-asnziwjfjoebpkesuhroepenaozt/OpenInApp-Prefix.pch.pth OpenInApp/OpenInApp-Prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s379991067.055540
+e379991067.386655
+r1
+xProcessPCH
+x/var/folders/zj/89lcvttd1_17xfc2d8d8cqzr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/OpenInApp-Prefix-asnziwjfjoebpkesuhroepenaozt/OpenInApp-Prefix.pch.pth
+xOpenInApp/OpenInApp-Prefix.pch
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Precompile OpenInApp/OpenInApp-Prefix.pch986e0e1b34a6b641^72fa621b34a6b641^---0#0#0#-19%DVTDocumentLocation2@103"file://localhost/Users/mmmackowiak/Documents/git/OpenInApp/IOS/OpenInApp/OpenInApp/OpenInApp-Prefix.pch0000000000000000^3678"ProcessPCH /var/folders/zj/89lcvttd1_17xfc2d8d8cqzr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/OpenInApp-Prefix-asnziwjfjoebpkesuhroepenaozt/OpenInApp-Prefix.pch.pth OpenInApp/OpenInApp-Prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/mmmackowiak/Documents/git/OpenInApp/IOS/OpenInApp    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch armv7s -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=6.0 -iquote /Users/mmmackowiak/Documents/git/OpenInApp/IOS/OpenInApp/build/OpenInApp.build/Release-iphoneos/OpenInApp.build/OpenInApp-generated-files.hmap -I/Users/mmmackowiak/Documents/git/OpenInApp/IOS/OpenInApp/build/OpenInApp.build/Release-iphoneos/OpenInApp.build/OpenInApp-own-target-headers.hmap -I/Users/mmmackowiak/Documents/git/OpenInApp/IOS/OpenInApp/build/OpenInApp.build/Release-iphoneos/OpenInApp.build/OpenInApp-all-target-headers.hmap -iquote /Users/mmmackowiak/Documents/git/OpenInApp/IOS/OpenInApp/build/OpenInApp.build/Release-iphoneos/OpenInApp.build/OpenInApp-project-headers.hmap -iquote/Users/mmmackowiak/Documents/apacheFlex/4.9.0 -iquoteAIR3.6/include -I/Users/mmmackowiak/Documents/git/OpenInApp/IOS/OpenInApp/build/Release-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/mmmackowiak/Documents/git/OpenInApp/IOS/OpenInApp/build/OpenInApp.build/Release-iphoneos/OpenInApp.build/DerivedSources/armv7s -I/Users/mmmackowiak/Documents/git/OpenInApp/IOS/OpenInApp/build/OpenInApp.build/Release-iphoneos/OpenInApp.build/DerivedSources -F/Users/mmmackowiak/Documents/git/OpenInApp/IOS/OpenInApp/build/Release-iphoneos --serialize-diagnostics /var/folders/zj/89lcvttd1_17xfc2d8d8cqzr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/OpenInApp-Prefix-asnziwjfjoebpkesuhroepenaozt/OpenInApp-Prefix.pch.dia -c /Users/mmmackowiak/Documents/git/OpenInApp/IOS/OpenInApp/OpenInApp/OpenInApp-Prefix.pch -o /var/folders/zj/89lcvttd1_17xfc2d8d8cqzr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/OpenInApp-Prefix-asnziwjfjoebpkesuhroepenaozt/OpenInApp-Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/zj/89lcvttd1_17xfc2d8d8cqzr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/OpenInApp-Prefix-asnziwjfjoebpkesuhroepenaozt/OpenInApp-Prefix.pch.d36"ED4BB4A2-76B8-4275-80A0-39C8AF4DC167-
+
+CProcessPCH /var/folders/zj/89lcvttd1_17xfc2d8d8cqzr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/OpenInApp-Prefix-fnmpgkpehfrwozgpbsefxpboymyq/OpenInApp-Prefix.pch.pth OpenInApp/OpenInApp-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s379991067.055542
+e379991067.451208
+r1
+xProcessPCH
+x/var/folders/zj/89lcvttd1_17xfc2d8d8cqzr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/OpenInApp-Prefix-fnmpgkpehfrwozgpbsefxpboymyq/OpenInApp-Prefix.pch.pth
+xOpenInApp/OpenInApp-Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Precompile OpenInApp/OpenInApp-Prefix.pch4c700e1b34a6b641^809d731b34a6b641^---0#0#0#-19%DVTDocumentLocation2@103"file://localhost/Users/mmmackowiak/Documents/git/OpenInApp/IOS/OpenInApp/OpenInApp/OpenInApp-Prefix.pch0000000000000000^3675"ProcessPCH /var/folders/zj/89lcvttd1_17xfc2d8d8cqzr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/OpenInApp-Prefix-fnmpgkpehfrwozgpbsefxpboymyq/OpenInApp-Prefix.pch.pth OpenInApp/OpenInApp-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/mmmackowiak/Documents/git/OpenInApp/IOS/OpenInApp    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch armv7 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=6.0 -iquote /Users/mmmackowiak/Documents/git/OpenInApp/IOS/OpenInApp/build/OpenInApp.build/Release-iphoneos/OpenInApp.build/OpenInApp-generated-files.hmap -I/Users/mmmackowiak/Documents/git/OpenInApp/IOS/OpenInApp/build/OpenInApp.build/Release-iphoneos/OpenInApp.build/OpenInApp-own-target-headers.hmap -I/Users/mmmackowiak/Documents/git/OpenInApp/IOS/OpenInApp/build/OpenInApp.build/Release-iphoneos/OpenInApp.build/OpenInApp-all-target-headers.hmap -iquote /Users/mmmackowiak/Documents/git/OpenInApp/IOS/OpenInApp/build/OpenInApp.build/Release-iphoneos/OpenInApp.build/OpenInApp-project-headers.hmap -iquote/Users/mmmackowiak/Documents/apacheFlex/4.9.0 -iquoteAIR3.6/include -I/Users/mmmackowiak/Documents/git/OpenInApp/IOS/OpenInApp/build/Release-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/mmmackowiak/Documents/git/OpenInApp/IOS/OpenInApp/build/OpenInApp.build/Release-iphoneos/OpenInApp.build/DerivedSources/armv7 -I/Users/mmmackowiak/Documents/git/OpenInApp/IOS/OpenInApp/build/OpenInApp.build/Release-iphoneos/OpenInApp.build/DerivedSources -F/Users/mmmackowiak/Documents/git/OpenInApp/IOS/OpenInApp/build/Release-iphoneos --serialize-diagnostics /var/folders/zj/89lcvttd1_17xfc2d8d8cqzr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/OpenInApp-Prefix-fnmpgkpehfrwozgpbsefxpboymyq/OpenInApp-Prefix.pch.dia -c /Users/mmmackowiak/Documents/git/OpenInApp/IOS/OpenInApp/OpenInApp/OpenInApp-Prefix.pch -o /var/folders/zj/89lcvttd1_17xfc2d8d8cqzr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/OpenInApp-Prefix-fnmpgkpehfrwozgpbsefxpboymyq/OpenInApp-Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/zj/89lcvttd1_17xfc2d8d8cqzr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/OpenInApp-Prefix-fnmpgkpehfrwozgpbsefxpboymyq/OpenInApp-Prefix.pch.d36"C13E214C-6CF9-42A2-B6D1-681A68D5C7C5-
+

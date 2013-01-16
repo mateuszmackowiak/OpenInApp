@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<s:Application xmlns:fx="http://ns.adobe.com/mxml/2009" 
+			   xmlns:s="library://ns.adobe.com/flex/spark" applicationDPI="160" creationComplete="creacomp(event)">
+	<s:layout>
+		<s:VerticalLayout/>
+	</s:layout>
+	<fx:Script>
+		<![CDATA[
+			import mx.events.FlexEvent;
+			
+			import pl.mateuszmackowiak.nativeANE.dialogs.OpenInApp;
+			private var _openInApp:OpenInApp;
+			
+			
+			protected function button1_clickHandler(event:MouseEvent):void
+			{
+				var f:File = File.applicationDirectory;
+				f = f.resolvePath("empty.pdf");
+				var path:String = f.nativePath;
+				traceME(path);
+				
+				var b:Button = Button(event.target);
+				traceME("OpenInApp call was sucessfull: "+_openInApp.showOpenInAppDialog(path,new Rectangle(b.x,b.y,b.width,b.height) ));
+			}
+			
+			protected function button2_clickHandler(event:MouseEvent):void
+			{
+				var f:File = File.applicationDirectory;
+				f = f.resolvePath("empty2.pdf");
+				var path:String = f.nativePath;
+				traceME(path);
+				
+				var b:Button = Button(event.target);
+				traceME("OpenInApp call was sucessfull: "+_openInApp.showOpenInAppDialog(path,new Rectangle(b.x,b.y,b.width,b.height) ));
+			}
+			
+			public function traceME(message:*):void{
+				textArea.appendText(String(message)+"\n");
+				trace(message);
+			}
+			
+			protected function creacomp(event:FlexEvent):void
+			{
+				_openInApp = OpenInApp.getInstance();
+				_openInApp.addEventListener(ErrorEvent.ERROR,traceME);
+				
+				traceME("OpenInApp version: "+ OpenInApp.Version);
+				traceME("OpenInApp support: "+_openInApp.isSupported());
+			}
+			
+		]]>
+	</fx:Script>
+	
+	<fx:Declarations>
+		<!-- Place non-visual elements (e.g., services, value objects) here -->
+	</fx:Declarations>
+	<s:Button label="openInnApp" click="button1_clickHandler(event)"  width="100%" height="60"/>
+	<s:Button label="openInnApp2" click="button2_clickHandler(event)"  width="100%" height="60"/>
+	<s:TextArea selectable="false" editable="false" id="textArea" width="100%" height="100%"/>
+</s:Application>
